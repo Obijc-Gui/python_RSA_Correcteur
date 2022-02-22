@@ -1,0 +1,36 @@
+
+
+========================================================================
+
+
+Clés:
+ 422767 853 108205 
+
+Message en valeur ASCII:
+ ['102', '100', '103'] 
+
+Message en blocs de 4:
+ ['0001', '0210', '0103'] 
+
+Message crypté:
+ [1, 352001, 418112] 
+
+Matrice  [1, 1, 0, 1, 0, 0, 1]  non ébruité
+Matrice  [0, 1, 1, 0, 1, 0, 1]  ébruité, matrice corrigé  [0, 1, 0, 0, 1, 0, 1]
+Matrice  [0, 1, 0, 0, 1, 0, 1]  non ébruité
+Matrice  [1, 1, 1, 1, 1, 1, 1]  non ébruité
+Matrice  [0, 0, 0, 0, 0, 0, 0]  non ébruité
+Matrice  [1, 0, 0, 1, 0, 0, 1]  ébruité, matrice corrigé  [1, 1, 0, 1, 0, 0, 1]
+Matrice  [1, 1, 0, 1, 1, 1, 0]  ébruité, matrice corrigé  [1, 1, 0, 0, 1, 1, 0]
+Matrice  [1, 1, 0, 0, 1, 0, 0]  ébruité, matrice corrigé  [1, 1, 0, 0, 1, 1, 0]
+Matrice  [1, 1, 0, 1, 0, 0, 1]  non ébruité
+Matrice  [1, 0, 0, 1, 1, 0, 1]  ébruité, matrice corrigé  [1, 0, 0, 1, 1, 0, 0]
+Matrice  [0, 0, 0, 1, 0, 0, 0]  ébruité, matrice corrigé  [0, 0, 0, 0, 0, 0, 0]
+
+-----------------------------------------
+Message final:
+ fdg 
+-----------------------------------------
+
+Temps d'exuction de la partie:
+2.240572461996635
